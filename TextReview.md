@@ -1,17 +1,13 @@
-# An ABC guide on how to deal with an unresponsive SME
+# An ABC list what to do if SME doesn't give the information
 
-**Nobody knows everything.** That is why every technical writer has to communicate with different stakeholders to get the necessary information needed to perform their work correctly. Very often they reach out to the so-called SME-s to gain clarity about a certain topic. 
+Every technical writer communicates with different people to get the needed information to work correctly. Very often they reach out to the SME-s to know more about a topic. 
 
-Some of them are really helpful and willing to share knowledge whereas some of them may be more challenging to approach. Don’t let that discourage you. Below I prepared an **ABC guide with some tips & tricks on how to work efficiently with an (unresponsive) SME** based also on my own experiences.
+SME means "Subject Matter Expert". It is a person who knows a lot about a topic. Some of the SME-s give information, some not. **Here is what to do if SME doesn't give information**
 
-For those of you who may not be familiar with the term SME: an **SME is an is a professional who has extensive knowledge of a specific area of expertise.** SME-s are experienced individuals and go-to people if  you want to get to know more about a particular topic.
+## A - Appreciate
+Appreciate the SME you ask for information. **Say thank you.**
 
-Let’s go! 😊
-
-## A like... Appreciate
-Appreciate the SME you turn to to get information. All in all, they devote some valuable time from their busy workday to help you solve the issues you're dealing with. You can just **say thank you**, send an accolade or even give them a small gift to show that you care. A good idea could be to let know also their managers how supportive they are.
-
-## B like... Be concrete
+## B - Be concrete
 Of course you may not know a lot about a particular subject, that's why you turn to an SME in the first place - to gain some knowledge. However, make sure that you do your homework and **prepare yourself** before you start asking questions that could be easily answered through just some basic research.
 
 ## C like... Communication is key
